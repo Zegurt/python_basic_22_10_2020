@@ -19,15 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fdc2bbc-af2b-4daf-af01-372a6aa0c106" name="Default Changelist" comment="Les 5 commit">
+    <list default="true" id="6fdc2bbc-af2b-4daf-af01-372a6aa0c106" name="Default Changelist" comment="Les 4 commit">
       <change beforePath="$PROJECT_DIR$/.idea/Les4/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Les4/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Les4/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Les4/Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Les4/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Les4/Task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Les4/Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Les4/Task4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Les4/Task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Les4/Task5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Les4/Task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Les4/Task6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Les4/Task7.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Les4/Task7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08_11_2020_17_57__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08_11_2020_17_57__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604849040930</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Les 4 commit">
+      <created>1604876804296</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604876804296</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,9 +149,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson 2 new commit" />
     <MESSAGE value="new commit" />
-    <MESSAGE value="Les 4 commit" />
     <MESSAGE value="Les 5 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Les 5 commit" />
+    <MESSAGE value="Les 4 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Les 4 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state width="672" height="177" key="GridCell.Tab.0.bottom" timestamp="1604876463678">
@@ -170,10 +170,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="672" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604876463677" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1604849046274">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1604876821587">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604849046274" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604876821587" />
     <state x="377" y="81" key="git4idea.branch.GitSmartOperationDialog" timestamp="1604847509867">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
